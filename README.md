@@ -10,3 +10,4 @@ KRISHNA is an open-source forensics tool designed to trace malware origins and d
 
 ## ⚖️ Disclaimer
 This tool is for educational and forensic use only. Dev: @thesudosiuu
+you can also follow me on instagram @thesudosiuu
